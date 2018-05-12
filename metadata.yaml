@@ -1,0 +1,39 @@
+_repo: Ruhtinas-SerebrjaniKertomus-Iivana-Julman-ajoilta_40568
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Saarikoski, K. K.
+    gutenberg_agent_id: '40705'
+    url: http://www.gutenberg.org/2009/agents/40705
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Aleksey Konstantinovich, graf
+    aliases:
+    - Толстой, Алексей Константинович, граф
+    - Tolstoy, Alexis Konstantinovich, graf
+    - Tolstoy, A. K. (Aleksey Konstantinovich), graf
+    - Tolstoy, Aleksei Konstantinovich, Count
+    - Tolstoy, Alexei Konstantinovich, graf
+    birthdate: 1817
+    deathdate: 1875
+    gutenberg_agent_id: '40704'
+    url: http://www.gutenberg.org/2009/agents/40704
+    wikipedia: http://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy
+description: ''
+gutenberg_issued: '2012-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40568'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcsh 'Russia -- History -- Ivan IV, 1533-1584 -- Fiction'
+- !lcc 'PG'
+title: 'Ruhtinas Serebrjani: Kertomus Iivana Julman ajoilta'
+url: http://www.gutenberg.org/ebooks/40568
