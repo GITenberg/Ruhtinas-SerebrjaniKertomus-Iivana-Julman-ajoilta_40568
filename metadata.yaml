@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40704
     wikipedia: http://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40568#Ruhtinas-SerebrjaniKertomus-Iivana-Julman-ajoilta
 gutenberg_issued: '2012-08-23'
 gutenberg_type: Text
 identifiers:
